@@ -32,8 +32,10 @@ The project leverages Python and popular libraries like pandas, scikit-learn, an
 3. Run the Jupyter notebook or Python script to execute the project.
 
 ## Example
+![Example Image](https://github.com/Taitilchheda/Stock-Market-Prediction/blob/main/nifty.png)
+![Example Image](https://github.com/Taitilchheda/Stock-Market-Prediction/blob/main/result.png)
 
-Provide an example of how to run the project or what the expected output looks like.
+This is an example of the output.
 
 ## Contributing
 
